@@ -2,6 +2,7 @@ heartbleed-sk
 =============
 
 All .SK VULNERABLE domains on port :443
+
 Scan date: 11.april 2014
 
 003.sk - VULNERABLE
